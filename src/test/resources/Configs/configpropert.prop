@@ -1,0 +1,7 @@
+baseurl= https://www.saucedemo.com/
+vusername = validusername
+vpassword = validpassword
+inusername= invalidusername
+inpassworda = invalidpassworda
+inpasswordb = invalidpasswordb
+inpasswordc= invalidpasswordc
